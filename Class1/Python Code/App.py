@@ -1,0 +1,5 @@
+print("Shahzad Khan")
+print("Saylani Batch 3")
+print("Hello Python")
+print("Monday & Friday")
+print("Gulshan Branch")
