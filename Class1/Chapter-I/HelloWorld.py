@@ -1,0 +1,6 @@
+print("Hello World")
+print("Shahzad Khan")
+print("Saylani AI Batch 3")
+print("Gulshan Branch")
+print("Monday - Fridat")
+print("0900-1200 Hours")
